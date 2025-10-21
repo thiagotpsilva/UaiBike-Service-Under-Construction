@@ -436,12 +436,12 @@ a:hover {
 }
 
 #overlay {
-  -moz-animation: overlay 1.5s 1.5s forwards;
+  /* -moz-animation: overlay 1.5s 1.5s forwards;
   -webkit-animation: overlay 1.5s 1.5s forwards;
   -ms-animation: overlay 1.5s 1.5s forwards;
-  animation: overlay 1.5s 1.5s forwards;
+  animation: overlay 1.5s 1.5s forwards; */
   background-attachment: fixed, fixed;
-  background-image: url('images/overlay-pattern.png'), url('images/overlay.svg');
+  /* background-image: url('images/overlay-pattern.png'), url('images/overlay.svg'); */
   background-image: url("../images/cycling.webp");
   background-image: url("../images/01.jpg");
   background-image: url("../images/wayne-bishop-7YUW7fvIYoQ-unsplash.jpg");
