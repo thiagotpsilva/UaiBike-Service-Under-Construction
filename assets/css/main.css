@@ -441,12 +441,9 @@ a:hover {
   -ms-animation: overlay 1.5s 1.5s forwards;
   animation: overlay 1.5s 1.5s forwards;
   background-attachment: fixed, fixed;
-  /* background-image: url('images/overlay-pattern.png'), url('images/overlay.svg'); */
   background-image: url("../images/cycling.webp");
   background-image: url("../images/01.jpg");
   background-image: url("../images/wayne-bishop-7YUW7fvIYoQ-unsplash.jpg");
-  /* background-image: url("../images/04.jpg"); */
-  /* background-image: url("../images/06.jpg"); */
   background-position: top left, center center;
   background-repeat: repeat, no-repeat;
   background-repeat: no-repeat;
@@ -1210,11 +1207,11 @@ a:hover {
 .lead {
   font-weight: bold;
   font-size: 1.5rem !important;
-  /* margin-top: 0; */
+  
 }
 #footer .copyright a {
   font-weight: bold;
-  /* border-bottom: 2px dotted; */
+
 }
 #footer .copyright a:hover {
   opacity: 0.8;
