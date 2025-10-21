@@ -315,7 +315,7 @@ a:hover {
   transform: translate3d(0, 0, 0);
   /* Set your background with this */
 
-  background: #348cb2 url('images/bg.jpg') bottom left;
+  /* background: #348cb2 url('images/bg.jpg') bottom left; */
   background-repeat: repeat-x;
   height: 100%;
   left: 0;
@@ -436,16 +436,16 @@ a:hover {
 }
 
 #overlay {
-  /* -moz-animation: overlay 1.5s 1.5s forwards;
+  -moz-animation: overlay 1.5s 1.5s forwards;
   -webkit-animation: overlay 1.5s 1.5s forwards;
   -ms-animation: overlay 1.5s 1.5s forwards;
-  animation: overlay 1.5s 1.5s forwards; */
+  animation: overlay 1.5s 1.5s forwards;
   background-attachment: fixed, fixed;
   /* background-image: url('images/overlay-pattern.png'), url('images/overlay.svg'); */
   background-image: url("../images/cycling.webp");
   background-image: url("../images/01.jpg");
   background-image: url("../images/wayne-bishop-7YUW7fvIYoQ-unsplash.jpg");
-  background-image: url("../images/04.jpg");
+  /* background-image: url("../images/04.jpg"); */
   /* background-image: url("../images/06.jpg"); */
   background-position: top left, center center;
   background-repeat: repeat, no-repeat;
@@ -478,7 +478,7 @@ a:hover {
   text-align: center;
   top: 0;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 #main:before {
